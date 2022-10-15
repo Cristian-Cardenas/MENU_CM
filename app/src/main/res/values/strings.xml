@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">C4-APP</string>
+    <string name="inicio">Inicio</string>
+    <string name="mapas">Mapas</string>
+    <string name="lugares">Lugares</string>
+    <string name="info">Acerca de</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/inicio"
+        android:title="@string/inicio" />
+    <item
+        android:id="@+id/mapas"
+        android:title="@string/mapas" />
+    <item
+        android:id="@+id/lugares"
+        android:title="@string/lugares" />
+    <item
+        android:id="@+id/info"
+        android:title="@string/info" />
+</menu>
